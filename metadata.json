@@ -1,0 +1,7 @@
+{
+  "name": "Estee Wholesales",
+  "description": "A comprehensive e-commerce platform for wholesale food items, featuring a real-time admin dashboard, analytics, and an AI-powered shopping assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
